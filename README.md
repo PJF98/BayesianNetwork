@@ -4,7 +4,7 @@ My Approach:
 
 My first solution was to use the existing Pomegranate Python library. I
 successfully created the model and was able to use it to create predictions
-both with and without input values. The code for the model create can be found
+both with and without input values. The code for the model creation can be found
 in Pomegranate.py.
 
 Secondly I decided to simulation the process from scratch to see if the values
@@ -15,7 +15,7 @@ After these two approaches I decided I should learn more about the underlying
 algorithms in the Pomegranate library. I learnt the variable elimination
 algorithm from this PDF document
 https://cedar.buffalo.edu/~srihari/CSE674/Chap9/9.3-VE-Algorithm.pdf that I
-found online. I was able to successfully implement this algorithm. My
+found online. I was able to successfully implement this algorithm. The
 factor classes required for my implementation of the algorithm are in
 Factor_Class.py and the creation of the specific network in this problem is in
 Variable_Elimination.py. This method also successfully predicts the
