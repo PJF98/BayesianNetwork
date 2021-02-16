@@ -30,7 +30,7 @@ Running Variable_Elimination_Surface.py will run my VE algorithm built from
 scratch to produce this surface graph which I included as the description said
 to plot away. 
 
-![screenshot]('Probs_Plot.png')
+<img src= "https://github.com/PJF98/BayesianNetwork/blob/main/Probs_Plot.png" title="Surface Plot" />
 
 Points For Discussion:
 
