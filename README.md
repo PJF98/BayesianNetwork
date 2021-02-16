@@ -7,7 +7,7 @@ successfully created the model and was able to use it to create predictions
 both with and without input values. The code for the model creation can be found
 in Pomegranate.py.
 
-Secondly I decided to simulation the process from scratch to see if the values
+Secondly I decided to simulate the process from scratch to see if the values
 given by the Pomegranate match the simulation. They do indeed match and the
 code for this brute force simulation is found in Simulation.py.
 
