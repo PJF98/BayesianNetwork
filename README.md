@@ -27,10 +27,10 @@ Running Main.py will output predictions for all 3 approaches I took. For the
 first 2 it will also show the probabilities with some given inputs.
 
 Running Variable_Elimination_Surface.py will run my VE algorithm built from
-scratch to produce this surface graph which I included as the description said
-to plot away. 
+scratch to produce this surface graph of the probability of tuberculosis or
+cancer given different probabilities for travelling to Asia and cancer.
 
-<img src= "https://github.com/PJF98/BayesianNetwork/blob/main/Probs_Plot.png" title="Surface Plot" />
+<img src= "https://github.com/PJF98/BayesianNetwork/blob/main/Probs_Plot.png"/>
 
 Points For Discussion:
 
