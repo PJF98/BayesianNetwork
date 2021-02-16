@@ -1,4 +1,4 @@
-#Exercise 1: Probabilistic Graphical Model
+# Exercise 1: Probabilistic Graphical Model
 
 My Approach:
 
