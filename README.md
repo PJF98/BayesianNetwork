@@ -30,7 +30,7 @@ Running Variable_Elimination_Surface.py will run my VE algorithm built from
 scratch to produce this surface graph which I included as the description said
 to plot away. 
 
-![screenshot]('probs_plot.pgn')
+![screenshot]('Probs_Plot.pgn')
 
 Points For Discussion:
 
